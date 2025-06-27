@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas Nazário 👋
+### Olá! Me chamo Lucas Nazário, mas pode me chamar de Naza!👋
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas na Uninassau
 👨‍💻 Focado em desenvolvimento back-end com Node.js, APIs REST, Sequelize e bancos de dados relacionais  
