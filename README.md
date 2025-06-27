@@ -1,16 +1,19 @@
-## Hi there 👋
+### Olá! Eu sou o Lucas Nazário 👋
 
-<!--
-**lucasnaza1/lucasnaza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na Uninassau  
+👨‍💻 Desenvolvedor em formação, focado em JavaScript, Node.js, React e Banco de Dados  
+📊 Interessado em dados, APIs e sistemas escaláveis  
+🚀 Sempre aprendendo algo novo!
 
-Here are some ideas to get you started:
+### 💻 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=sequelize)
+
+### 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/seuperfil](https://www.linkedin.com/in/lucas-naz%C3%A1rio-80b02a289/))
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](lucasnazario.tech@gmail.com)
