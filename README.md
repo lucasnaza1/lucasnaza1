@@ -1,6 +1,6 @@
-### Olá! Me chamo Lucas Nazário👋
+### Olá! Me chamo Lucas Nazário 👋
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas na Uninassau
+🎓 Formado em Análise e Desenvolvimento de Sistemas na Uninassau  
 👨‍💻 Focado em desenvolvimento back-end com Node.js, APIs REST, Sequelize e bancos de dados relacionais  
 📊 Interessado em dados, integração de sistemas e soluções que geram impacto  
 🚀 Sempre aprendendo algo novo!
@@ -8,6 +8,7 @@
 ### 💻 Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -24,7 +25,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucas-naz%C3%A1rio-80b02a289/)  
 [![Email](https://img.shields.io/badge/-lucasnazario.tech@gmail.com-red?style=flat-square&logo=gmail)](mailto:lucasnazario.tech@gmail.com)
 
-***
+---
 
 ### Hello! I'm Lucas Nazário 👋
 
@@ -36,6 +37,7 @@
 ### 💻 Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
@@ -51,4 +53,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lucas-naz%C3%A1rio-80b02a289/)  
 [![Email](https://img.shields.io/badge/-lucasnazario.tech@gmail.com-red?style=flat-square&logo=gmail)](mailto:lucasnazario.tech@gmail.com)
-
