@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Formado em Análise e Desenvolvimento de Sistemas pela Uninassau  
-<br>👨‍💻 Focado no desenvolvimento back-end com <strong>Node.js</strong>, <strong>APIs REST</strong>, <strong>Sequelize</strong> e <strong>bancos relacionais</strong>  
+<br>👨‍💻 Desenvolvedor <strong>full-stack</strong> com experiência em <strong>Node.js</strong>, <strong>APIs REST</strong>, <strong>Sequelize</strong>, <strong>bancos de dados</strong> e <strong>React</strong>.
 <br>📊 Interessado em <strong>dados</strong>, <strong>integrações de sistemas</strong> e <strong>soluções com impacto real</strong>  
 <br>🚀 Sempre aprendendo algo novo!
 </p>
