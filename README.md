@@ -1,50 +1,42 @@
-<h1 align="center">👋 Hey, I'm Lucas Nazário</h1>
+<h1 align="center">👋 Olá! Me chamo Lucas Nazário</h1>
 
 <p align="center">
-  🎓 Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela Uninassau  
-  <br>👨‍💻 Desenvolvedor <strong>Full Stack</strong> com foco em <strong>Back-end</strong> e integração de sistemas  
-  <br>📊 Apaixonado por <strong>dados</strong>, <strong>tecnologia</strong> e <strong>soluções que geram impacto real</strong>  
-  <br>🚀 Sempre em busca de novos aprendizados
+🎓 Formado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela Uninassau  
+<br>👨‍💻 Desenvolvedor <strong>Full Stack</strong> com experiência em <strong>Node.js</strong>, <strong>APIs REST</strong>, <strong>Sequelize</strong>, <strong>bancos de dados</strong> e <strong>React</strong>  
+<br>📊 Interessado em <strong>dados</strong>, <strong>integrações de sistemas</strong> e <strong>soluções com impacto real</strong>  
+<br>🚀 Sempre aprendendo algo novo!
 </p>
 
 ---
 
-## 🛠️ &nbsp;Stack & Ferramentas
+## 💻 &nbsp;Tecnologias que uso
 
 <div align="center">
-
-  <!-- Back-end -->
+  
+  <!-- Linha 1 -->
+  <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript" />
   <img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js" />
   <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express" />
   <img src="https://img.shields.io/badge/Sequelize-000?style=flat-square&logo=sequelize" />
   <img src="https://img.shields.io/badge/Axios-000?style=flat-square&logo=axios" />
-  <img src="https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql" />
   
-  <!-- Front-end -->
+  <!-- Linha 2 -->
+  <img src="https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql" />
+  <img src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker" />
   <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/React%20Native-000?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python" />
+  
+  <!-- Linha 3 -->
   <img src="https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3" />
-
-  <!-- Extra -->
-  <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker" />
-
+  
 </div>
 
 ---
 
-## 🌟 &nbsp;Sobre mim
-- 🔍 Gosto de explorar **integração entre sistemas e APIs**  
-- 📂 Curto organizar dados e transformá-los em informação útil  
-- ⚡ Interesse crescente em **dados, automações e soluções escaláveis**  
-- 🎯 Objetivo: unir tecnologia + criatividade para resolver problemas reais  
-
----
-
-## 📫 &nbsp;Conecte-se comigo
+## 📫 &nbsp;Como me encontrar
 
 <p align="center">
   <a href="mailto:lucasnazario.tech@gmail.com">
@@ -61,34 +53,34 @@
 ---
 
 <details>
-  <summary>🇺🇸 Read in English</summary>
+  <summary>🇺🇸 Click to read in English</summary>
 
 <h2 align="center">Hello! I'm Lucas Nazário 👋</h2>
 
 <p align="center">
-  🎓 Graduate in <strong>Systems Analysis and Development</strong> at Uninassau  
-  <br>👨‍💻 Full Stack Developer focused on <strong>Back-end</strong> and <strong>system integration</strong>  
-  <br>📊 Passionate about <strong>data</strong>, <strong>technology</strong> and <strong>solutions that make a difference</strong>  
-  <br>🚀 Always learning and building new things
+🎓 Graduated in <strong>Systems Analysis and Development</strong> at Uninassau  
+<br>👨‍💻 Focused on <strong>Back-end development</strong> with <strong>Node.js</strong>, <strong>REST APIs</strong>, <strong>Sequelize</strong> and <strong>relational databases</strong>  
+<br>📊 Passionate about <strong>data</strong>, <strong>system integration</strong>, and <strong>solutions that make a difference</strong>  
+<br>🚀 Always learning something new!
 </p>
 
 ---
 
-### 🛠️ &nbsp;Stack & Tools
+### 💻 &nbsp;Technologies I use
 
 <div align="center">
 
+  <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript" />
   <img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js" />
   <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express" />
   <img src="https://img.shields.io/badge/Sequelize-000?style=flat-square&logo=sequelize" />
   <img src="https://img.shields.io/badge/Axios-000?style=flat-square&logo=axios" />
   <img src="https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql" />
+  <img src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker" />
   <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/React%20Native-000?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript" />
-  <img src="https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/Python-000?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker" />
   <img src="https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3" />
 
@@ -96,7 +88,7 @@
 
 ---
 
-### 📫 &nbsp;Let's connect
+### 📫 &nbsp;How to reach me
 
 <p align="center">
   <a href="mailto:lucasnazario.tech@gmail.com">
