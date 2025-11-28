@@ -70,11 +70,8 @@
 ## 📊 Linguagens mais utilizadas
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=pie"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnaza1&layout=pie" />
 </p>
-
 
 <details>
   <summary>🇺🇸 English Version</summary>
