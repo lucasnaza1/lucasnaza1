@@ -35,12 +35,8 @@ Meu foco é criar aplicações completas, desde APIs RESTful performáticas com 
 </div>
 
 ---
-
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasnaza1&theme=tokyonight&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnaza1&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-  </div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasnaza1&theme=tokyo-night&hide_border=true" />
 </div>
 ---
 
