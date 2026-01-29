@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Lucas+Naz%C3%A1rio!+%F0%9F%91%8B;Dev+Full+Stack+J%C3%AAnior;Especialista+em+Java+%26+JavaScript;Transformando+c%C3%B3digo+em+solu%C3%A7%C3%B5es" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Lucas+Naz%C3%A1rio!+%F0%9F%91%8B;Dev+Full+Stack+J%C3%AAnior;Java+%7C+Node.js+%7C+React;Code+%E2%98%95+Metal" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -9,91 +9,48 @@
   <a href="https://www.linkedin.com/in/lucas-naz%C3%A1rio-80b02a289/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/nazaaccount/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=social&logo=instagram" alt="Instagram" />
+</p>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=A9B1D6&background=1A1B27&center=false&vCenter=false&width=700&height=180&lines=class+LucasNazario+extends+Developer+%7B;++++constructor()+%7B;++++++++this.name+%3D+%27Lucas+Naz%C3%A1rio%27%3B;++++++++this.stack+%3D+%5B%27Java%27%2C+%27Node%27%2C+%27React%27%5D%3B;++++++++this.passion+%3D+%27Transformar+caf%C3%A9+em+c%C3%B3digo%27%3B;++++%7D;%7D" alt="Code Snippet" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🛠️ Tech Stack</h3>
+  
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,sequelize&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=react,html,css,mysql,docker,git&theme=dark" />
+</div>
+
+<br>
+
+---
+
+<div align="center"> 
+  <h3>🎧 Coding Soundtrack</h3>
+  <p>Codando ao som de um Metal pesado 🤘</p>
+  
+  <a href="https://music.youtube.com/playlist?list=PLceZNWlzlmOkXeBKWyC5kgA39x_Bo9KLc&si=UCav9qvcGqMc15sy">
+    <img src="https://img.shields.io/badge/YouTube_Music-Ouvir_Minha_Playlist-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
- 🎓 <strong>Análise e Desenvolvimento de Sistemas</strong> (Uninassau) <br>
- 🚀 Focado em escalabilidade, performance e código limpo.
-</p>
-
-<br>
-
-<div align="center">
   
-<h3>🔥 Minha Jornada</h3>
-
-<p align="center" width="600">
-Sou um desenvolvedor <strong>Full Stack Júnior</strong> apaixonado pelo ecossistema <strong>JavaScript</strong> e pela robustez do <strong>Java</strong>. <br>
-Meu foco é criar aplicações completas, desde APIs RESTful performáticas com <strong>Node.js</strong> e <strong>Spring/Java</strong> até interfaces modernas com <strong>React</strong>.
-<br><br>
-👀 <strong>O que estou buscando:</strong> Oportunidades para aplicar meus conhecimentos em <strong>integrações de dados</strong> e arquitetura de software, evoluindo um commit por vez.
-</p>
-
+  <br><br>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
 </div>
-
----
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasnaza1&theme=tokyo-night&hide_border=true" />
-</div>
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-| **Core Stack** | **Front-end** | **Back-end & Data** | **DevOps & Tools** |
-|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=java,js,ts" /> | <img src="https://skillicons.dev/icons?i=react,html,css" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sequelize" /> | <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" /> |
-
-</div>
-
-<br>
-
-<details>
-  <summary><strong>⚡ Detalhes das Tecnologias (Lista Completa)</strong></summary>
-  <br>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
-    <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <br>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </div>
-</details>
-
----
-
-## ☕ Lifestyle & Hobbies
-
-<img align="right" src="https://media.giphy.com/media/Q81NcsY6YxK7jxnr4v/giphy.gif" width="150" />
-
-Não sou apenas linhas de código! No meu tempo livre:
-
-* 🎧 **Metalhead:** Sempre programando ao som de um metal pesado.
-* ☕ **Coffee Lover:** O combustível oficial do meu deploy.
-* 🎮 **Gamer:** Explorando mundos virtuais (quando não estou criando um).
-* 📚 **Leitor:** Ficção e Tech.
 
 ---
 
 <div align="center">
   
-  ### 📫 Vamos construir algo juntos?
+  ### 📫 Contatos
   
   <p>
     <a href="mailto:lucasnazario.tech@gmail.com">
