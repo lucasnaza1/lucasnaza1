@@ -53,11 +53,4 @@ Graduado em **Análise e Desenvolvimento de Sistemas (ADS)**. Sou fascinado por 
 * **📊 Ads_performance_dashboard**
   * *Descrição:* Painel analítico focado na centralização, manipulação e visualização de métricas de desempenho em tempo real.
 
----
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasnaza1&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnaza1&layout=compact&langs_count=7&theme=dark" />
-</p>
